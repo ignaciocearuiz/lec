@@ -10,12 +10,9 @@ El desarrollo es en **Python** mediante el uso de **Jupyter Notebooks**. Se busc
 
 # Labs
 
-1. Análisis exploratorio de datos.
-2. Probabilidad
-3. Variables aleatorias.
-4. Inferencia.
+1. Introducción y probabilidades en Python
 
-*El tópico de cada laboratorio está sujeto a modificaciones*
+*Los tópicos de los otros tres laboratorios se anunciarán oportunamente.*
 
 # Contacto
 
