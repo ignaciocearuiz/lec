@@ -11,8 +11,9 @@ El desarrollo es en **Python** mediante el uso de **Jupyter Notebooks**. Se busc
 # Labs
 
 1. Introducción y probabilidades en Python
+2. Variables Aleatorias
 
-*Los tópicos de los otros tres laboratorios se anunciarán oportunamente.*
+*Los tópicos de los otros dos laboratorios se anunciarán oportunamente.*
 
 # Contacto
 
