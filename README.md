@@ -12,6 +12,8 @@ El desarrollo es en **Python** mediante el uso de **Jupyter Notebooks**. Se busc
 
 1. Introducción y probabilidades en Python
 2. Variables Aleatorias
+3. Distribuciones Muestrales e Intervalos de Confianza
+4. Análisis de Datos y Test de Hipótesis
 
 *Los tópicos de los otros dos laboratorios se anunciarán oportunamente.*
 
